@@ -86,3 +86,9 @@
         ```
 
 ## 2026-10-09
+
+## 2026-10-10
+
+1. openzfs的CoW机制是其核心设计原则
+2. openzfs的pool structure结构指存储池的vdev；mirror是最常用结构
+3. 
